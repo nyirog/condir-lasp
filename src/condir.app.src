@@ -5,7 +5,8 @@
   {mod, { condir_app, []}},
   {applications,
    [kernel,
-    stdlib
+    stdlib,
+    lasp
    ]},
   {env,[]},
   {modules, []},
